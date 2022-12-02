@@ -1,0 +1,12 @@
+.plotting_box {
+  border: solid black;
+  border-radius: 5px;
+}
+
+.irs--shiny .irs-bar--single {
+  background-color: darkorange;
+}
+
+p {
+  font-size: 60px;
+}
